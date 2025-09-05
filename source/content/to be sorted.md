@@ -1,0 +1,1 @@
+These are from my kali - transfer any notes from here when you have time!!!!!!!!!
