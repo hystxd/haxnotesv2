@@ -132,7 +132,7 @@ What to do when there is a confirmed injection point?
 
 - Determine how many columns using:
 
-`' UNION SELECT null;-- -` **_or by using ORDER BY #-- -_**
+`' UNION SELECT null;-- -` **_or by using ORDER BY # -- -_**
 
 `' UNION SELECT 'asd', 'asd';-- -` **_asd should appear somewhere_**
 
