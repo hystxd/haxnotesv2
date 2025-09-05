@@ -1,7 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: All your notes are belong to me. xD
 ---
 
-Hello world! XD
 
-Write some words here!
