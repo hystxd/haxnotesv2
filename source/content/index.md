@@ -1,3 +1,8 @@
+---
+title: HaxxxxxNotes!
+tags:
+  - Dump
+---
 ## Samba
 
 
