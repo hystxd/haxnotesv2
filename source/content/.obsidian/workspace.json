@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Posts/Notes.md",
+                "file": "Posts/OSWA Certification.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "OSWA Certification"
             }
           }
         ],
@@ -186,12 +186,12 @@
   },
   "active": "2d8837e6263008e3",
   "lastOpenFiles": [
+    "Posts/Notes.md",
+    "Posts/OSWA Certification.md",
     "index.md",
     "Posts",
-    "Posts/Notes.md",
     "images/Pasted image 20250906020754.png",
     "images",
-    "Posts/OSWA/OSWA Certification.md",
     "indexarchive.md",
     "Posts/TryHackMe!",
     "Posts/HTB",
