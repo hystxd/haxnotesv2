@@ -11,12 +11,14 @@
             "id": "e7440fe4336362f3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "source/quartz/static/og-image.png"
+                "file": "source/CODE_OF_CONDUCT.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "og-image"
+              "icon": "lucide-file",
+              "title": "CODE_OF_CONDUCT"
             }
           }
         ]
@@ -166,8 +168,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "365505d510a2c7d5",
+  "active": "e7440fe4336362f3",
   "lastOpenFiles": [
+    "source/quartz/static/og-image.png",
     "source/content/images/Pasted image 20250906020754.png",
     "source/content/images",
     "source/content/Untitled",
