@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "2e9225e34664efd4",
+    "id": "bac1101cc46bfd85",
     "type": "split",
     "children": [
       {
-        "id": "0571c1c94d829fac",
+        "id": "b476db1e0d894ab7",
         "type": "tabs",
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
+            "id": "e7440fe4336362f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "2d8837e6263008e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "category-folder/Testing XD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Testing XD"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1243752a4df710bb",
+    "id": "2cf9af1d97f8b062",
     "type": "split",
     "children": [
       {
-        "id": "8a4c81639dc8783e",
+        "id": "abe9c95a6fda69e5",
         "type": "tabs",
         "children": [
           {
-            "id": "b77831b90dd9f87b",
+            "id": "365505d510a2c7d5",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -63,7 +48,7 @@
             }
           },
           {
-            "id": "0829eb50dbb8a2b3",
+            "id": "f0f8ee0155d85202",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -80,7 +65,7 @@
             }
           },
           {
-            "id": "436d75c49c949463",
+            "id": "925eb65609ee8f57",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -96,20 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "ba1ec06a672fb227",
+    "id": "e800cc5ae113256d",
     "type": "split",
     "children": [
       {
-        "id": "6cea78168fbf9ccd",
+        "id": "525e0e9e45811d4f",
         "type": "tabs",
         "children": [
           {
-            "id": "2aa5a4c073617928",
+            "id": "3f2aab45878bcb05",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,25 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Some note"
+              "title": "Backlinks for README"
             }
           },
           {
-            "id": "5acb7020384970a8",
+            "id": "4ffc765d3a4e6346",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Some note"
+              "title": "Outgoing links from README"
             }
           },
           {
-            "id": "f850ba7e9e699bea",
+            "id": "3c1e353f208dd3bc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -152,18 +137,18 @@
             }
           },
           {
-            "id": "2d9129bb8dcf7983",
+            "id": "2f7454f1901d0ab1",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Some note"
+              "title": "Outline of README"
             }
           }
         ]
@@ -183,11 +168,8 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "365505d510a2c7d5",
   "lastOpenFiles": [
-    "category-folder/index.md",
-    "category-folder/Testing XD.md",
-    "index.md",
-    "category-folder"
+    "source/content/category-folder/Testing XD.md"
   ]
 }
