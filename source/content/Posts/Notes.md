@@ -1,5 +1,5 @@
 ---
-title: HaxxxxxNotes!
+title: HaxNotes!
 tags:
   - Dump
 ---
