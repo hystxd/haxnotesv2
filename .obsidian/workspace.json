@@ -11,14 +11,12 @@
             "id": "e7440fe4336362f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "source/quartz/static/og-image.png"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-image",
+              "title": "og-image"
             }
           }
         ]
@@ -168,8 +166,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "365505d510a2c7d5",
+  "active": "e7440fe4336362f3",
   "lastOpenFiles": [
+    "source/quartz/static/icon.png",
+    "source/docs/upgrading.md",
+    "source/docs/showcase.md",
+    "source/docs/layout.md",
+    "source/docs/index.md",
+    "source/docs/hosting.md",
+    "source/docs/configuration.md",
+    "source/docs/build.md",
+    "source/docs/authoring content.md",
+    "source/docs/tags/component.md",
+    "source/docs/tags/plugin.md",
+    "source/docs/images/giscus-repo.png",
+    "source/docs/images/giscus-example.png",
+    "source/docs/images/giscus-discussion.png",
+    "source/docs/images/dns records.png",
+    "source/README.md",
+    "README.md",
     "source/content/category-folder/Testing XD.md"
   ]
 }
