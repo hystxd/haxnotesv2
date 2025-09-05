@@ -184,17 +184,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "Notes.md",
+    "Categories",
+    "Categories/Notes.md",
     "images/Pasted image 20250906020754.png",
     "index.md",
     "images",
-    "OSWA/OSWA Certification.md",
+    "Categories/OSWA/OSWA Certification.md",
     "indexarchive.md",
-    "TryHackMe!",
-    "HTB",
-    "OSWA",
+    "Categories/TryHackMe!",
+    "Categories/HTB",
+    "Categories/OSWA",
     "category-folder/index.md",
     "category-folder"
   ]
